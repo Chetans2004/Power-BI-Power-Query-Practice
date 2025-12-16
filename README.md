@@ -34,3 +34,20 @@
 ## Tools Used
 - Power BI Desktop
 - Power Query Editor
+
+
+# Day02
+## Slicers Practiced
+- Adding slicers to reports
+- Single-select slicer
+- Multi-select slicer
+- Date slicer
+- Dropdown slicer
+- Clearing slicer selections
+- Formatting slicers (title, background, orientation)
+
+## Key Learning
+- Slicers are used to filter report data interactively
+- Slicers improve user experience and report readability
+- Slicers affect all visuals on a report page
+- Slicers are more user-friendly than the Filters pane
