@@ -41,8 +41,14 @@
 ## Topics Covered
 - Basic Chart Visualizations
 
-## Charts Practiced
+## Day1
+**Charts Practiced**
 - Bar Chart
 - Column Chart
 - Line Chart
 - Pie Chart
+
+## Day2
+- Slicers
+
+
