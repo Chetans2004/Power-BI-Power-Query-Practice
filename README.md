@@ -51,4 +51,13 @@
 ## Day2
 - Slicers
 
+## Day3  Basic Charts
+- Bar Chart
+- Line Chart
+- Pie Chart
 
+
+# Day 04 – Cards, Filters & Maps 
+ - Card Visual 
+ - Filters 
+ - Map Visual
